@@ -1,3 +1,8 @@
+#Class to be use as a shopping list. 
+# Items can be added, displayed and the quantity of items can be counted.
+#extra: I added an extra atribute to store the individual price, 
+# and a method to calculate the total amount of the cart.
+
 class Shopping_cart: 
 
     all_cartinfo = []   # class variable shared by all objects
