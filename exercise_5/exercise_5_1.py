@@ -2,7 +2,7 @@
 #Author: Karoline Trindade Dutra
 #Date: 2026-05-31
 
-## Goal: Find schools whithin a district
+## Goal: Find schools within a district
 
 #creating the dialog window
 parent = iface.mainWindow()
